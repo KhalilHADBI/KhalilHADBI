@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Docker, airflow , automatisation , advanced algotithms ++
 - 💞️ I’m looking to collaborate on many projects
 - 📫 How to reach me  khalil.hadbi1999@gmail.com 
-- 😄 Pronouns:  He 
+- 😄 Pronouns:  Khalil
 - ⚡ Fun fact: available on nights!! 
 
 <!---
